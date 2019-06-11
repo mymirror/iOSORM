@@ -12,7 +12,7 @@
 useage 用法:
 
 
-导入 #import  "RLMRealm.h"
+导入 #import  "LMRealm.h"
 
 如果需要使用数据库的加密功能，必须在appdelegate didFinishLaunchingWithOptions 里面初始化 
  [LMRealm shareRealm].isSecu = 1;\n

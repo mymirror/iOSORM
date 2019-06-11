@@ -7,7 +7,6 @@
 //
 
 #import "ViewController.h"
-#import "RLMRealm.h"
 #import "test.h"
 #import "iOSRealm/LMRealm.h"
 #import "test2.h"

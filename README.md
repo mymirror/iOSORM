@@ -11,6 +11,7 @@
 
 useage 用法:
 
+pod 'iOSOrm'
 
 导入 #import  "LMRealm.h"
 

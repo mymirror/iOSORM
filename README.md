@@ -1,14 +1,19 @@
 # iOSRealm
 
-0.0.1 内容：\n
-1、ORM数据库创建以及加密\n
-2、数据库的增删改查\n
-3、数据库版本更新(数据迁移)\n
-\n
+0.0.1 内容：
+
+1、ORM数据库创建以及加密
+
+2、数据库的增删改查
+
+3、数据库版本更新(数据迁移)
+
+
 useage 用法:
-\n
+
+
 导入 #import  "RLMRealm.h"
-\n
+
 如果需要使用数据库的加密功能，必须在appdelegate didFinishLaunchingWithOptions 里面初始化 
  [LMRealm shareRealm].isSecu = 1;\n
  

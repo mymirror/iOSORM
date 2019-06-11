@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
            iOS版本的ORM数据库，具有高速，快捷的优点
                    DESC
 
-  spec.homepage     = "https://github.com/mymirror/iOSRealm"
+  spec.homepage     = "https://github.com/mymirror/iOSORM"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -75,7 +75,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/mymirror/iOSRealm.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/mymirror/iOSORM.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
